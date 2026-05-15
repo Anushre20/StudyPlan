@@ -1,10 +1,10 @@
 # Contributing to StudyPlan 📚
-Thank you for your interest in contributing to **StudyPlan** — an application designed to automatically organize tasks, schedules, and study plans. We welcome contributions from the community, especially **GSSoC/NSoC contributors**!
+Thank you for your interest in contributing to **StudyPlan** — an application designed to automatically organize tasks, schedules, and study plans. We welcome contributions from the community, especially **GSSoC contributors**!
 
 ---
 
 ## 🗺️ Table of Contents
-- [GSSoC/NSoC Contributors — Start Here](#-gssocnsoc-contributors--start-here)
+- [GSSoC Contributors — Start Here](#-gssoc-contributors--start-here)
 - [Getting Started](#-getting-started)
 - [System Architecture](#-system-architecture)
 - [Branch Naming Convention](#-branch-naming-convention)
@@ -156,6 +156,6 @@ Violations can be reported to the project maintainers.
 ## ❓ Questions?
 
 - Open an **issue** for project-related questions.
-- For GSSoC/NSoC-specific questions, join our Discord community: [Discord-Link](#)
+- For GSSoC-specific questions, join our Discord community: [Discord-Link](#)
 
 Thank you for contributing! 📚🏫
