@@ -1485,8 +1485,6 @@ body {
 /* Main */
 .main { display: flex; flex-direction: column; overflow: hidden; position: relative; }
 .topbar { position: relative; display: flex; align-items: center; justify-content: space-between; padding: 16px 24px; border-bottom: 1px solid var(--color-border-tertiary); flex-shrink: 0; background: rgba(var(--color-background-primary), 0.8); backdrop-filter: blur(10px); z-index: 10; }
-.topbar-left { display: flex; flex-direction: column; gap: 4px; flex: 1; }
-.topbar-right { display: flex; align-items: center; gap: 12px; }
 .topbar-title { font-size: 18px; font-weight: 700; color: var(--color-text-primary); }
 .btn { font-family: inherit; font-size: 13px; font-weight: 600; padding: 8px 16px; border: 1px solid var(--color-border-secondary); border-radius: var(--border-radius-sm); background: var(--color-background-primary); color: var(--color-text-primary); cursor: pointer; transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1); box-shadow: var(--shadow-sm); display: inline-flex; align-items: center; justify-content: center; gap: 6px; }
 .btn:hover { background: var(--color-background-secondary); transform: translateY(-1px); box-shadow: var(--shadow-md); }
